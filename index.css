@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("/Images/Amazon-Logo\ \(1\).jpg");
+    background-image: url("Amazon-Logo\ \(1\).jpg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -121,7 +121,7 @@ span{
 
 /* herosection */
 .hero-section{
-    background-image: url("/Images/hero_cover.jpg");
+    background-image: url("hero_cover.jpg");
     background-size: cover;
     height: 380px;
     display: flex;
@@ -182,7 +182,7 @@ span{
     margin-left: 12px;
 }
 .box1-img{
-    background-image: url("/Images/Regulatory-Bodies-in-Healthcare.jpg");
+    background-image: url("Regulatory-Bodies-in-Healthcare.jpg");
     background-size: cover;
 }
 .box2 h2{
@@ -280,7 +280,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url("/Images/Amazon-Logo\ \(1\).jpg");
+    background-image: url("Amazon-Logo\ \(1\).jpg");
     background-size: cover;
     height: 50px;
     width: 100px;
